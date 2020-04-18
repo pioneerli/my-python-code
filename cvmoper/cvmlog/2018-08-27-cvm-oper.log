@@ -1,0 +1,6 @@
+2018-08-27 16:35:34,533 - root - INFO - ------------------------start cvm of API log-------------
+2018-08-27 16:35:35,092 - root - INFO - cvm  [u'ins-h8d3e69v'] reboot successful!
+2018-08-27 16:35:35,092 - root - INFO - {"RequestId": "17840c5f-65a9-41a1-9ab6-9e03e55d286b"}
+2018-08-27 16:37:25,822 - root - INFO - ------------------------start cvm of API log-------------
+2018-08-27 16:37:26,433 - root - INFO - cvm  [u'ins-h8d3e69v'] reboot successful!
+2018-08-27 16:37:26,434 - root - INFO - {"RequestId": "fe987e97-a80d-4a9a-ba6b-19b88b069d93"}

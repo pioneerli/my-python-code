@@ -1,0 +1,3 @@
+2018-06-04 15:40:41,364 - root - INFO - ------------------------start exec rds backup API log-------------
+2018-06-04 15:40:41,767 - root - INFO - rdsbackup mission submission successful!
+2018-06-04 15:40:41,767 - root - INFO - b'{"RequestId":"2AA53A09-33D3-4A26-94D3-A745301E3A02"}'
