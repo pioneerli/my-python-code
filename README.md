@@ -1,13 +1,9 @@
 # my-python-code
 ## 重启深信服(SANGFOROPER)
-> Python深信服重启
+> Python蘑菇财富机器重启
 
-blog：[Python重启深信服设备](http://blog.51cto.com/kaliarch/2095178)
+blog：[Python重启蘑菇财富设备](http://blog.51cto.com/kaliarch/2095178)
 
-## 翻译小工具(FANYI)
-> Python实现翻译小工具
-
-blog：[Python实现翻译小工具](http://blog.51cto.com/kaliarch/2072150)
 
 ## 汽车票查询(XAGLKP)
 > python搜索汽车票
