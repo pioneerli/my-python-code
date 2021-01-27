@@ -4,7 +4,7 @@ certifi==2017.7.27.1
 cffi==1.11.5
 chardet==3.0.4
 Cheetah==2.4.4
-requests==2.18.4
+requests==2.20.0
 Scrapy==1.5.1
 service-identity==17.0.0
 six==1.11.0
