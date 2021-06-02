@@ -11,7 +11,7 @@ pycryptodome==3.6.1
 PyVirtualDisplay==0.2.1
 requests==2.18.4
 selenium==3.4.3
-urllib3==1.22
+urllib3==1.26.5
 XlsxWriter==0.9.6
 tencentcloud-sdk-python==3.0.20
 
