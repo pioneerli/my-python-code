@@ -10,7 +10,7 @@ service-identity==17.0.0
 six==1.11.0
 slip==0.4.0
 slip.dbus==0.4.0
-Twisted==18.7.0
+Twisted==22.2.0
 urlgrabber==3.10
 urllib3==1.22
 w3lib==1.19.0
