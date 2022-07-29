@@ -5,7 +5,7 @@ cffi==1.11.5
 chardet==3.0.4
 Cheetah==2.4.4
 requests==2.18.4
-Scrapy==1.5.1
+Scrapy==2.6.2
 service-identity==17.0.0
 six==1.11.0
 slip==0.4.0
